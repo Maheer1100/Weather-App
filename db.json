@@ -1,0 +1,29 @@
+{
+    "weather": [
+      {
+        "id": 1,
+        "city": "London",
+        "description": "Light rain",
+        "temperature": 15,
+        "humidity": 81,
+        "windSpeed": 4.6
+      },
+      {
+        "id": 2,
+        "city": "New York",
+        "description": "Clear sky",
+        "temperature": 22,
+        "humidity": 50,
+        "windSpeed": 3.2
+      },
+      {
+        "id": 3,
+        "city": "Tokyo",
+        "description": "Few clouds",
+        "temperature": 18,
+        "humidity": 72,
+        "windSpeed": 2.5
+      }
+    ]
+  }
+  
